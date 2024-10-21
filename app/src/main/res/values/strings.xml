@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">projectX</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="text">
+        ถ้าเกิดมีอุบัติเหตุในมหาลัยเล็กๆน้อยๆ รวมไปถึงใหญ่ก็สามารถแจ้งยามที่ดูแลแต่ละประตูและเบอร์ฉุกเฉินต่างๆ เช่นอุบัติเหตุ ยางรถแตกหรือรถเป็นอะไร ก็จะมีเบอร์ ร้านช่างแถวๆมหาลัย เพื่อความสะดวกสะบายต่อผู้ใช้งาน
+    </string>
+</resources>
